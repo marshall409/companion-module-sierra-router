@@ -1,0 +1,9 @@
+
+{
+  "name": "Sierra Aspen Router",
+  "id": "sierra-aspen-router",
+  "version": "1.0.0",
+  "author": "User",
+  "keywords": ["router", "video", "sierra", "aspen"],
+  "main": "src/index.js"
+}
